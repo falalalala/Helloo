@@ -17,5 +17,8 @@ public class Helloo {
     public static void main(String[] args) {
         System.out.println("Haiiii");
     }
+      public static void b(String[] args) {
+        System.out.println("WOW ADDED B");
+    }
     
 }
